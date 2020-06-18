@@ -1,0 +1,92 @@
+{
+  "ProfileTitle": "Профиль",
+  "Name": "Имя",
+
+  "Bill": "Счет",
+  "CurrencyAccount": "Счет в валюте",
+  "ExchangeRates": "Курс валют",
+  "Currency": "Валюта",
+  "Rate": "Курс",
+  "Date": "Дата",
+
+  "RecordHistory": "История записей",
+  "Number": "№",
+  "Amount": "Сумма",
+  "Category": "Категория",
+  "Type": "Тип",
+  "Open": "Открыть",
+  "Back": "Назад",
+  "Forward": "Вперед",
+
+  "Planning": "Планирование",
+  "Of": "из",
+
+  "NewRecord": "Новая запись",
+  "SelectCategory": "Выберите категорию",
+  "Income": "Доход",
+  "Outcome": "Расход",
+  "MinAmount": "Минимальная сумма",
+  "Description": "Описание",
+  "EnterDescription": "Введите описание",
+  "Message_CategoryHasBeenCreated": "Категория успешно создана",
+  "Message_CategoryHasBeenUpdated": "Категория успешно обновлена",
+  "Message_CategoryHasBeenRemoved": "Категория удалена",
+
+  "Categories": "Категории",
+
+  "CategoryName": "Название",
+  "Limit": "Лимит", 
+
+  "EditCategory": "Редактировать",
+
+  "History": "История",
+  "RecordCreated": "Запись создана",
+
+  "Detail": "Подробнее",
+
+  "Enter_Name": "Имя пользователя не может быть пустым",
+  "No_Records": "Записей пока нет",
+  "No_Categories": "Категорий пока нет.",
+  "Add_New_Category": "Добавить новую категорию?",
+  "Enter_Category_Name": "Введите название категории",
+  "Record_Id_Not_Found": "Запись с таким ID не найдена.",
+
+  "Button_Update": "Обновить",
+  "Button_Create": "Создать",
+  "Button_Delete": "Удалить",
+
+  "Sidebar_Bill": "Счет",
+  "Sidebar_History": "История",
+  "Sidebar_Planning": "Планирование",
+  "Sidebar_NewRecord": "Новая запись",
+  "Sidebar_Categories": "Категории",
+
+  "Navbar_Profile": "Профиль",
+  "Navbar_Logout": "Выйти",
+
+  "CRM_Title": "Домашняя бухгалтерия",
+  "Message_EmailRequired": "Поле Email не должно быть пустым",
+  "Message_EmailValid": "Введите корретный Email",
+  "Password": "Пароль",
+  "Message_EnterPassword": "Введите пароль",
+  "Message_MinLength": "Пароль должен содержать не менее",
+  "Message_EnteredSymbols": "символов. Вы ввели",
+  "Message_EnterName": "Введите ваше имя",
+  "Login": "Войти",
+  "NoAccount": "Нет аккаунта?",
+  "HasAccount": "Уже есть аккаунт?",
+  "Register": "Зарегистрироваться",
+  "AcceptRules": "С правилами согласен",
+  "NeedAcceptRules": "Нужно согласиться",
+  "Logout": "Вы вышли из системы",
+  "FirstLogin": "Для начала войдите в систему",
+  "NoUserWithEmail": "Пользователя с таким Email не существует",
+  "WrongPassword": "Неверный пароль",
+  "EmailInUse": "Email уже занят",
+  "Error": "Ошибка",
+
+  "Update": "Обновить данные",
+  "MoreThan": "Превышение на",
+  "Stayed": "Осталось",
+  "CreateNewRecord": "Создать новую запись"
+}

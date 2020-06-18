@@ -1,0 +1,92 @@
+{
+  "ProfileTitle": "Profile",
+  "Name": "Username",
+
+  "Bill": "Bill",
+  "CurrencyAccount": "Currency Account",
+  "ExchangeRates": "Exchange Rates",
+  "Currency": "Currency",
+  "Rate": "Rate",
+  "Date": "Date",
+
+  "RecordHistory": "Record History",
+  "Number": "#",
+  "Amount": "Amount",
+  "Category": "Category",
+  "Type": "Type",
+  "Open": "Open",
+  "Back": "Back",
+  "Forward": "Forward",
+
+  "Planning": "Planning",
+  "Of": "of",
+
+  "NewRecord": "New Record",
+  "SelectCategory": "Select a category",
+  "Income": "Income",
+  "Outcome": "Outcome",
+  "MinAmount": "Minimum amount",
+  "Description": "Description",
+  "EnterDescription": "Enter a description",
+  "Message_CategoryHasBeenCreated": "Category has been created",
+  "Message_CategoryHasBeenUpdated": "Category has been updated",
+  "Message_CategoryHasBeenRemoved": "Category has been removed",
+
+  "Categories": "Categories",
+
+  "CategoryName": "Category name",
+  "Limit": "Limit",
+
+  "EditCategory": "Edit",
+
+  "History": "History",
+  "RecordCreated": "Record created",
+
+  "Detail": "Detail",
+
+  "Enter_Name": "Username cannot be empty",
+  "No_Records": "No records yet",
+  "No_Categories": "There are no categories.",
+  "Add_New_Category": "Add new category?",
+  "Enter_Category_Name": "Enter a category name",
+  "Record_Id_Not_Found": "No record with this ID found.",
+
+  "Button_Update": "Update",
+  "Button_Create": "Create",
+  "Button_Delete": "Remove",
+
+  "Sidebar_Bill": "Bill",
+  "Sidebar_History": "History",
+  "Sidebar_Planning": "Planning",
+  "Sidebar_NewRecord": "New Record",
+  "Sidebar_Categories": "Categories",
+
+  "Navbar_Profile": "Profile",
+  "Navbar_Logout": "Logout",
+
+  "CRM_Title": "Home accounting",
+  "Message_EmailRequired": "Email field is required",
+  "Message_EmailValid": "Enter valid email",
+  "Password": "Password",
+  "Message_EnterPassword": "Enter password",
+  "Message_MinLength": "Password must contain at least",
+  "Message_EnteredSymbols": "characters. You entered",
+  "Message_EnterName": "Enter your name",
+  "Login": "Login",
+  "NoAccount": "Has no account?",
+  "HasAccount": "Has account?",
+  "Register": "Register",
+  "AcceptRules": "Agree with rules",
+  "NeedAcceptRules": "You need to agree with rules",
+  "Logout": "You have logged out",
+  "FirstLogin": "First login",
+  "NoUserWithEmail": "No user with this Email",
+  "WrongPassword": "Invalid password",
+  "EmailInUse": "Email is already in use",
+  "Error": "Error",
+
+  "Update": "Update",
+  "MoreThan": "Excess on",
+  "Stayed": "Left",
+  "CreateNewRecord": "Create new record"
+}
